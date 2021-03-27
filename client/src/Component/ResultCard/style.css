@@ -1,0 +1,29 @@
+.resultCard {
+	display: flex;
+	flex-direction: row;
+	border: 1px solid black;
+	margin: 15px;
+}
+
+.book-info {
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+	margin: 10px;
+}
+
+.img {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 10px;
+}
+
+.book-btns {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	height: 30px;
+	width: 10%;
+	margin: 5px;
+}
